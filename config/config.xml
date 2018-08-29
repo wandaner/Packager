@@ -1,0 +1,13 @@
+<xml>
+	<app value ="demo.apk"/>
+	<channel>
+		<param name="xiaomi" value="com.xiaomi.hore"/>
+		<param name="xiaomi1" value="com.xiaomi.ss.hore"/>
+	</channel>
+	<keyStore>
+		<param name="keystore" value="config/parkDemo.jks" />
+		<param name="password" value="12345678" />
+		<param name="aliaskey" value="alias" />
+		<param name="aliaspwd" value="12345678" />
+	</keyStore>
+</xml>
